@@ -1,0 +1,142 @@
+{
+  "commands": [
+    {
+      "id": 1,
+      "name": "lookup",
+      "commandname": "#lookup"
+    },
+    {
+      "id": 2,
+      "name": "order",
+      "commandname": "#order"
+    },
+    {
+      "id": 3,
+      "name": "refund",
+      "commandname": "#refund"
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "type": "ORDER",
+      "name": "dummy-trex-sticker-order",
+      "refunded": false
+    },
+    {
+      "id": 2,
+      "type": "REFUND",
+      "name": "dummy-sticker-refund",
+      "refunded": true
+    }
+  ],
+  "chat": [
+    {
+      "id": 1,
+      "user": "bot",
+      "text": "Here's an example command: \"#order apple-sticker\""
+    },
+    {
+      "id": 2,
+      "user": "bot",
+      "text": "You can #lookup, #order, even #refund"
+    },
+    {
+      "id": 3,
+      "user": "bot",
+      "text": "Welcome to Sticker Chat Shop! Get started by using a command"
+    }
+  ],
+  "stickers": [
+    {
+      "title": "apple",
+      "price": "12",
+      "image": "apple.png",
+      "id": "1"
+    },
+    {
+      "title": "google",
+      "price": "11",
+      "image": "google.png",
+      "id": "2"
+    },
+    {
+      "title": "docker",
+      "price": "10",
+      "image": "docker.png",
+      "id": "4"
+    },
+    {
+      "title": "firebase",
+      "price": "8",
+      "image": "firebase.png",
+      "id": "3"
+    },
+    {
+      "title": "github",
+      "price": "15",
+      "image": "github.png",
+      "id": "5"
+    },
+    {
+      "title": "golang",
+      "price": "8",
+      "image": "golang.png",
+      "id": "6"
+    },
+    {
+      "title": "javascript",
+      "price": "11",
+      "image": "javascript.png",
+      "id": "7"
+    },
+    {
+      "title": "jenkins",
+      "price": "9",
+      "image": "jenkins.png",
+      "id": "8"
+    },
+    {
+      "title": "react",
+      "price": "12",
+      "image": "react.png",
+      "id": "9"
+    },
+    {
+      "title": "shiba",
+      "price": "13",
+      "image": "shiba.png",
+      "id": "10"
+    },
+    {
+      "title": "slack",
+      "price": "14",
+      "image": "slack.png",
+      "id": "11"
+    },
+    {
+      "title": "tesla",
+      "price": "22",
+      "image": "tesla.png",
+      "id": "12"
+    },
+    {
+      "title": "trex",
+      "price": "11",
+      "image": "trex.png",
+      "id": "13"
+    },
+    {
+      "title": "vim",
+      "price": "15",
+      "image": "vim.png",
+      "id": "14"
+    },
+    {
+      "title": "vue",
+      "price": "9",
+      "image": "vue.png",
+      "id": "15"
+    }
+  ]
+}
