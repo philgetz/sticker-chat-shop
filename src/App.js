@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 
 import Main from "./Main/Main";
 
@@ -28,9 +28,9 @@ class App extends Component {
 
   render() {
     return (
-      <HashRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Main />
-      </HashRouter>
+      </BrowserRouter>
     );
   }
 }

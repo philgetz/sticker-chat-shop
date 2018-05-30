@@ -74,9 +74,9 @@ class Main extends Component {
         </TopAppBar>
 
         <div className="top-app-bar--fixed-adjust">
-          <Route exact path={process.env.PUBLIC_URL + '/'}> render={() => <Redirect to="/order" />} />
-          <Route path={process.env.PUBLIC_URL + '/order'}> component={Order} />
-          <Route path={process.env.PUBLIC_URL + '/history'}> component={History} />
+          <Route exact path="/" render={() => <Redirect to="/order" />} />
+          <Route path="/order" component={Order} />
+          <Route path="/history" component={History} />
         </div>
       </div>
     );
