@@ -1,5 +1,4 @@
 # Sticker Chat Shop
-========================
 
 An e-commerce store bot helper to order, refund, and lookup stickers based on ReactJS and Material Design.
 
