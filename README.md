@@ -36,3 +36,11 @@ In history mode you can filter through:
 
 * Orders
 * Refunds
+
+## Q&A
+
+* Exercise Difficulty: Moderate
+* How did you feel about the exercise itself? 9
+* How do you feel about coding an exercise as a step in the interview process? 10
+* What would you change in the exercise and/or process?
+
