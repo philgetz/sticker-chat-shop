@@ -73,7 +73,7 @@ In history mode you can filter through:
 
 ## Resources
 
-#### Technologies User
+#### Technologies Used
 
 * [React w/ create-react-app](https://github.com/facebook/create-react-app)
 * [React Router](https://github.com/ReactTraining/react-router)
