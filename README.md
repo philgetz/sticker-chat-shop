@@ -45,11 +45,11 @@ Example
 #order google-sticker
 ```
 
-#refund order-\<order number>
+#### #refund order-\<order-number>
 
 ```
 Refund Sticker Orders
-* must pass in "order-" + order_number
+* must pass in "order-" + order-number
 
 Example
 #refund order-1
